@@ -71,22 +71,10 @@ Gosto muito de **games, tecnologia e programação**, e também produzo conteúd
 # 📺 Meu Canal no YouTube
 
 <p align="center">
-
 <a href="https://www.youtube.com/@Sonhamene">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos"/>
+<img src="https://img.shields.io/badge/▶️_Assistir_no_YouTube-Sonhamene-red?style=for-the-badge"/>
 </a>
-
 </p>
-
-<p align="center">
-
-<a href="https://www.youtube.com/@Sonhamene">
-<img src="https://ytcards.demolab.com/?id=&title=Últimos+vídeos+do+canal&lang=pt&theme=dark"/>
-</a>
-
-</p>
-
----
 
 # 📫 Contato
 
