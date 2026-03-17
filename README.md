@@ -77,11 +77,6 @@ Gosto muito de **games, tecnologia e programação**, e também produzo conteúd
 
 </p>
 
-<p align="center">
-
-<a href="https://www.youtube.com/@Sonhamene">
-<img src="https://ytcards.demolab.com/?id=9bZkp7q19f0&title=Visite+meu+canal+no+YouTube&lang=pt&theme=dark"/>
-</a>
 
 </p>
 
