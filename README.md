@@ -15,7 +15,7 @@
 🚀 Futuro desenvolvedor
 
 Meu nome é **Pedro**, tenho **17 anos** e estou cursando **Desenvolvimento de Sistemas no SENAI**, além de estudar no **2º ano do ensino médio**.  
-Gosto muito de **games, tecnologia e programação**, e estou sempre tentando aprender coisas novas.
+Gosto muito de **games, tecnologia e programação**, e também produzo conteúdo no **YouTube**.
 
 ---
 
@@ -39,6 +39,7 @@ Gosto muito de **games, tecnologia e programação**, e estou sempre tentando ap
    - Games
    - Programação
    - Tecnologia
+   - Criar conteúdo no YouTube
 ```
 
 ---
@@ -67,9 +68,23 @@ Gosto muito de **games, tecnologia e programação**, e estou sempre tentando ap
 
 ---
 
-# 🎮 Curiosidade
+# 📺 Meu Canal no YouTube
 
-🎮 Meu interesse por programação começou por causa dos **videogames**.
+<p align="center">
+
+<a href="https://www.youtube.com/@Sonhamene">
+<img src="https://img.shields.io/youtube/channel/subscribers/UC?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.youtube.com/@Sonhamene">
+<img src="https://ytcards.demolab.com/?id=&title=Últimos+vídeos+do+canal&lang=pt&theme=dark"/>
+</a>
+
+</p>
 
 ---
 
@@ -83,6 +98,10 @@ Gosto muito de **games, tecnologia e programação**, e estou sempre tentando ap
 
 <a href="mailto:pedroferreiramagalhaes0@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Sonhamene">
+<img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
