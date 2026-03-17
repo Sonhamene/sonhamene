@@ -59,16 +59,6 @@ Gosto muito de **games e tecnologia**, e estou sempre explorando coisas novas no
 
 ---
 
-# 🐍 Contribuições
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonhamene/Sonhamene/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonhamene/Sonhamene/output/github-contribution-grid-snake.svg">
-<img alt="snake animation" src="https://raw.githubusercontent.com/Sonhamene/Sonhamene/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 # 👀 Visitas no perfil
 
 ![](https://komarev.com/ghpvc/?username=Sonhamene&color=blue)
