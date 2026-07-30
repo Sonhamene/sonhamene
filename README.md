@@ -19,46 +19,34 @@ Gosto de **games, tecnologia e programação**, e também produzo conteúdo no *
 
 ---
 
-# 💻 Sobre mim
+# 🧠 Status de aprendizado
 
-```bash
-> nome: Pedro
-> nickname: Sonhamene
-> idade: 17
-> país: Brasil
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Em%20estudo-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Em%20estudo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-> curso: Desenvolvimento de Sistemas (SENAI)
-> escola: 2º ano do ensino médio
+---
 
-> aprendendo:
-   - HTML
-   - JavaScript
-   - Python
+# 💼 Projetos
 
-> interesses:
-   - Games
-   - Programação
-   - Tecnologia
-   - Criação de conteúdo
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Projetos-Em%20breve-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+- 🚧 Projeto 1: Em desenvolvimento
+- 🚧 Projeto 2: Em desenvolvimento
+- 🚧 Projeto 3: Em desenvolvimento
 
 ---
 
 # 🕹️ Tecnologias
 
 <p align="center">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</p>
-
----
-
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonhamene&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonhamene&layout=compact&theme=tokyonight"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 ---
